@@ -12,7 +12,8 @@ search_urls = [
     "https://www.kleinanzeigen.de/s-festool-of-1400/k0",
     "https://www.kleinanzeigen.de/s-festool-oberfr%C3%A4se-1400/k0",
     "https://www.kleinanzeigen.de/s-festool-of/k0",
-    "https://www.kleinanzeigen.de/s-festool-oberfr%C3%A4se/k0"
+    "https://www.kleinanzeigen.de/s-festool-oberfr%C3%A4se/k0",
+    "https://www.kleinanzeigen.de/s-zu-verschenken/karlsruhe/c192l9186"
     # Add more search URLs as needed
 
 # Previous state of the search results
