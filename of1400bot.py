@@ -7,8 +7,13 @@ from telegram import Bot
 telegram_token = "6901584899:AAG05QPi8F2chGZ65XayDniDT8rF8E0Doy4"
 chat_id = "990284196"
 
-# eBay Kleinanzeigen search URL with the specified keywords
-search_url = "https://www.kleinanzeigen.de/s-festool-of-1400/k0"
+# List of eBay Kleinanzeigen search URLs
+search_urls = [
+    "https://www.kleinanzeigen.de/s-festool-of-1400/k0",
+    "https://www.kleinanzeigen.de/s-festool-oberfr%C3%A4se-1400/k0",
+    "https://www.kleinanzeigen.de/s-festool-of/k0",
+    "https://www.kleinanzeigen.de/s-festool-oberfr%C3%A4se/k0"
+    # Add more search URLs as needed
 
 # Previous state of the search results
 previous_state = set()
