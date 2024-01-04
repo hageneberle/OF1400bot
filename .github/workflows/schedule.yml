@@ -2,7 +2,7 @@ name: Scheduled Job
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # Schedule every 30 minutes
+    - cron: '*/10 * * * *'  # Schedule every 30 minutes
 
 jobs:
   run:
